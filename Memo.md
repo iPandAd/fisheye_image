@@ -31,3 +31,11 @@ Numba加速运算
 参考博客[自动驾驶——自动泊车之AVM环视系统算法框架](https://zhuanlan.zhihu.com/p/534553717)
 
 淘宝检索【鱼眼镜头 USB】
+
+## 2023.06.15
+
+### 数据集下载
+
+LMS的数据集下载页面[A Data Set Providing Synthetic and Real-World Fisheye Video Sequences](https://www.lms.tf.fau.eu/research/downloads/fisheye-data-set/)，部分数据集无法点击下载
+
+KITTI的数据集下载页面[KITTI-360](https://www.cvlibs.net/datasets/kitti-360/download.php)，数据集比较大，且给的脚本无法进行下载
