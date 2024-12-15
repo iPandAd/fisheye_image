@@ -36,6 +36,6 @@ Numba加速运算
 
 ### 数据集下载
 
-LMS的数据集下载页面[A Data Set Providing Synthetic and Real-World Fisheye Video Sequences](https://www.lms.tf.fau.eu/research/downloads/fisheye-data-set/)，部分数据集无法点击下载
+LMS的数据集下载页面[A Data Set Providing Synthetic and Real-World Fisheye Video Sequences](https://www.lms.tf.fau.eu/research/downloads/fisheye-data-set/)，下载时不用挂梯子
 
 KITTI的数据集下载页面[KITTI-360](https://www.cvlibs.net/datasets/kitti-360/download.php)，数据集比较大，且给的脚本无法进行下载

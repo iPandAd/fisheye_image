@@ -2,8 +2,8 @@ import cv2
 from matplotlib import pyplot as plt
 import numpy as np
 import os
-import numba
-from numba import jit
+# import numba
+# from numba import jit
 
 
 def get_all_coordinate(img):
